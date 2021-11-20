@@ -7,14 +7,16 @@
 #### 1章 線形回帰モデル
  - [単回帰](https://github.com/akiabe/GPBook/blob/main/pdf/linear.pdf)
  - [重回帰](https://github.com/akiabe/GPBook/blob/main/pdf/multiple.pdf)
- - 線形回帰
+ - [線形回帰](https://github.com/akiabe/GPBook/blob/main/pdf/nonlinear.pdf)
  
 #### 2章　ガウス分布
- - ガウス分布
- - 多変量ガウス分布
+ - 1次元ガウス分布
+ - Box-Muller法によるガウス分布からのサンプル生成
+ - 2次元ガウス分布
+ - 2次元ガウス分布からのサンプル生成
 
 #### 3章　ガウス過程
- - ガウス過程とカーネル
+ - 様々なカーネルによるガウス過程
  - ガウス過程回帰モデル
  - ガウス過程回帰とハイパーパラメータ推定
  - ガウス過程回帰の一般化
