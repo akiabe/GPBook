@@ -6,7 +6,7 @@
 
 #### 1章 線形回帰モデル
  - [単回帰](https://github.com/akiabe/GPBook/blob/main/pdf/linear.pdf)
- - [重回帰]()
+ - [重回帰](https://github.com/akiabe/GPBook/blob/main/pdf/multiple.pdf)
  - 線形回帰
  
 #### 2章　ガウス分布
