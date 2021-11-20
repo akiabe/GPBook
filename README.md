@@ -5,7 +5,7 @@
 本書の議論をJuliaでフォローする。
 
 #### 1章 線形回帰モデル
- - 単回帰
+ - [単回帰](https://github.com/akiabe/GPBook/blob/main/src/linear.ipynb)
  - 重回帰
  - 線形回帰
  
