@@ -13,7 +13,7 @@
  - [1次元ガウス分布](https://github.com/akiabe/GPBook/blob/main/pdf/gauss-dist.pdf)
  - [ガウス分布からのサンプル生成](https://github.com/akiabe/GPBook/blob/main/pdf/gauss_box-muller.pdf)
  - [2次元ガウス分布](https://github.com/akiabe/GPBook/blob/main/pdf/mult-gauss.pdf)
- - 2次元ガウス分布からのサンプル生成
+ - [2次元ガウス分布からのサンプル生成](https://github.com/akiabe/GPBook/blob/main/pdf/mult-gauss_sampling.pdf)
 
 #### 3章　ガウス過程
  - 様々なカーネルによるガウス過程
