@@ -11,7 +11,7 @@
  
 #### 2章　ガウス分布
  - [1次元ガウス分布](https://github.com/akiabe/GPBook/blob/main/pdf/gauss-dist.pdf)
- - Box-Muller法によるガウス分布からのサンプル生成
+ - [Box-Muller法によるガウス分布からのサンプル生成](https://github.com/akiabe/GPBook/blob/main/pdf/gauss_box-muller.pdf)
  - 2次元ガウス分布
  - 2次元ガウス分布からのサンプル生成
 
