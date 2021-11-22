@@ -17,6 +17,7 @@
  - [多変量ガウス分布の周辺化](https://github.com/akiabe/GPBook/blob/main/pdf/mult-gauss_marginalization.pdf)
 
 #### 3章　ガウス過程
+ - [ガウス過程からのサンプル](https://github.com/akiabe/GPBook/blob/main/pdf/gp.pdf)
  - 様々なカーネルによるガウス過程
  - ガウス過程回帰モデル
  - ガウス過程回帰とハイパーパラメータ推定
