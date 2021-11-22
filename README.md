@@ -14,7 +14,7 @@
  - [ガウス分布からのサンプル生成](https://github.com/akiabe/GPBook/blob/main/pdf/gauss_box-muller.pdf)
  - [多変量ガウス分布](https://github.com/akiabe/GPBook/blob/main/pdf/mult-gauss.pdf)
  - [多変量ガウス分布からのサンプル生成](https://github.com/akiabe/GPBook/blob/main/pdf/mult-gauss_sampling.pdf)
- - 多変量ガウス分布の周辺化
+ - [多変量ガウス分布の周辺化](https://github.com/akiabe/GPBook/blob/main/pdf/mult-gauss_marginalization.pdf)
 
 #### 3章　ガウス過程
  - 様々なカーネルによるガウス過程
