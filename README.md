@@ -10,10 +10,11 @@
  - [線形回帰](https://github.com/akiabe/GPBook/blob/main/pdf/nonlinear.pdf)
  
 #### 2章　ガウス分布
- - [1次元ガウス分布](https://github.com/akiabe/GPBook/blob/main/pdf/gauss-dist.pdf)
+ - [ガウス分布](https://github.com/akiabe/GPBook/blob/main/pdf/gauss-dist.pdf)
  - [ガウス分布からのサンプル生成](https://github.com/akiabe/GPBook/blob/main/pdf/gauss_box-muller.pdf)
- - [2次元ガウス分布](https://github.com/akiabe/GPBook/blob/main/pdf/mult-gauss.pdf)
- - [2次元ガウス分布からのサンプル生成](https://github.com/akiabe/GPBook/blob/main/pdf/mult-gauss_sampling.pdf)
+ - [多変量ガウス分布](https://github.com/akiabe/GPBook/blob/main/pdf/mult-gauss.pdf)
+ - [多変量ガウス分布からのサンプル生成](https://github.com/akiabe/GPBook/blob/main/pdf/mult-gauss_sampling.pdf)
+ - 多変量ガウス分布の周辺化
 
 #### 3章　ガウス過程
  - 様々なカーネルによるガウス過程
