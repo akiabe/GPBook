@@ -19,7 +19,7 @@
 #### 3章　ガウス過程
  - [ガウス過程からのサンプル](https://github.com/akiabe/GPBook/blob/main/pdf/gp.pdf)
  - [様々なカーネルによるガウス過程](https://github.com/akiabe/GPBook/blob/main/pdf/kernel.pdf)
- - ガウス過程回帰モデル
+ - [ガウス過程回帰モデル](https://github.com/akiabe/GPBook/blob/main/pdf/gp-linear.pdf)
  - ガウス過程回帰とハイパーパラメータ推定
  - ガウス過程回帰の一般化
  
