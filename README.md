@@ -21,7 +21,6 @@
  - [様々なカーネルによるガウス過程](https://github.com/akiabe/GPBook/blob/main/pdf/kernel.pdf)
  - [ガウス過程回帰モデル](https://github.com/akiabe/GPBook/blob/main/pdf/gp-linear.pdf)
  - ガウス過程回帰とハイパーパラメータ推定
- - ガウス過程回帰の一般化
  
 #### 5章　ガウス過程の計算法
  - 補助変数法
