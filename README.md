@@ -2,7 +2,7 @@
 
 ## 機械学習プロフェッショナルシリーズ「ガウス過程と機械学習」
 
-自身の学習のため、本書の内容についてJuliaで確認した。
+本書の内容についてJuliaで確認した。
 
 #### 1章 線形回帰モデル
  - [単回帰](https://github.com/akiabe/GPBook/blob/main/pdf/linear.pdf)
